@@ -1,0 +1,14 @@
+aliyun :
+  ons :
+    address : http://onsaddr-internet.aliyun.com/rocketmq/nsaddr4client-internet
+    consumerId : CID_SPIDER_TASK
+    producerId : PID_SPIDER_DATA
+    taskTopic : topic_spider_task
+    dataTopic : topic_spider_data
+    accessKey : ODebp0rBFEgAaVSq
+    secretKey : xAbc9Cg2gfkdliCp6AQUiaFluxTQi1
+
+server:
+  port: 8090
+  tomcat:
+    uri-encoding: UTF-8
